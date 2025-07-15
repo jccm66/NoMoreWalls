@@ -2018,6 +2018,14 @@ proxies:
   sni: 1231231.1234567890spcloud.com
   tls: false
   type: hysteria2
+- name: '@Darktunnel_official'
+  password: 60543cda-8960-49c9-9ac5-0a9acb316e07
+  port: 26923
+  server: yjjdhl.yunjijd.xyz
+  skip-cert-verify: true
+  sni: yjjdhl.yunjijd.xyz
+  tls: false
+  type: hysteria2
 - name: ' @game_file2020'
   password: 621187c3-859d-4682-aac1-cd4500f9690e
   port: 17169
@@ -2254,7 +2262,7 @@ proxies:
   sni: www.apple.com
   tls: false
   type: hysteria2
-- name: '  @V2rayNG_CaFe |   '
+- name: '@Moft_Vpn '
   obfs: salamander
   obfs-password: v2raybluecrystal
   password: 6E7ZX07Att
@@ -2263,7 +2271,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '  @V2rayNG_CaFe |    #1'
+- name: '@Moft_Vpn  #1'
   obfs: salamander
   obfs-password: v2raybluecrystal
   password: 6E7ZX07Att
@@ -2319,6 +2327,22 @@ proxies:
   server: 129.153.59.124
   skip-cert-verify: true
   sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: 'Telegram:@config_proxy '
+  password: 867f512f-93d2-4344-853c-50965de9b103
+  port: 55215
+  server: shy38.zqjc.cloud
+  skip-cert-verify: false
+  sni: shy38.zqjc.cloud
+  tls: false
+  type: hysteria2
+- name: 'Telegram:@config_proxy  #1'
+  password: 867f512f-93d2-4344-853c-50965de9b103
+  port: 55215
+  server: shy42.zqjc.cloud
+  skip-cert-verify: false
+  sni: shy42.zqjc.cloud
   tls: false
   type: hysteria2
 - name: '10 https://dafei.de #2'
@@ -2386,7 +2410,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '  @V2rayNG_CaFe |    #2'
+- name: '  @V2rayNG_CaFe |   '
   obfs: salamander
   obfs-password: Telegram-->@Ln2Ray
   password: Telegram-->@Ln2Ray
@@ -2568,6 +2592,33 @@ proxies:
   password: k1sCJ4SJQj
   port: 501
   server: p1.3dfigures.ir
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: 'v2raybluecrystal2 #1'
+  obfs: salamander
+  obfs-password: v2raybluecrystal
+  password: o753T2a9zD
+  port: 18865
+  server: v2raybluecrystal3.3dfigures.ir
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: 'v2raybluecrystal #1'
+  obfs: salamander
+  obfs-password: v2raybluecrystal
+  password: o753T2a9zD
+  port: 20675
+  server: v2raybluecrystal3.3dfigures.ir
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: 'v2raybluecrystal3 #1'
+  obfs: salamander
+  obfs-password: v2raybluecrystal
+  password: o753T2a9zD
+  port: 50757
+  server: v2raybluecrystal3.3dfigures.ir
   skip-cert-verify: true
   tls: false
   type: hysteria2
