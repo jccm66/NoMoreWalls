@@ -41,7 +41,7 @@ proxies:
   password: efanccyun
   plugin: obfs
   plugin-opts:
-    host: 202507121073737-BbgY2abS77.download.microsoft.com
+    host: 202507121073737-vn1ZEZYzN4.download.microsoft.com
     mode: http
   port: 8774
   server: cn01.efan8867801.xyz
@@ -65,24 +65,11 @@ proxies:
   skip-cert-verify: true
   sni: www.baidu.com
   type: trojan
-- name: US_speednode_0184
+- name: US_speednode_0227
   network: ws
   password: tg-fq521free
   port: 443
   server: 198.62.62.67
-  skip-cert-verify: true
-  sni: torjan.xn--xhq44j.eu.org
-  type: trojan
-  udp: true
-  ws-opts:
-    headers:
-      Host: torjan.xn--xhq44j.eu.org
-    path: /
-- name: US_speednode_0186
-  network: ws
-  password: tg-fq521free
-  port: 443
-  server: 216.24.57.30
   skip-cert-verify: true
   sni: torjan.xn--xhq44j.eu.org
   type: trojan
