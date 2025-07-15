@@ -2525,6 +2525,16 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
+- name: 'Telegram= @vaslvip '
+  obfs: salamander
+  obfs-password: t8tblKOIMXQ2ydZNiDTwj8ocAqp9FhkA
+  password: j6dnxwZGg1
+  port: 45330
+  server: 164.92.241.193
+  skip-cert-verify: true
+  sni: canva.com
+  tls: false
+  type: hysteria2
 - name: '@v2ray313  '
   obfs: salamander
   obfs-password: v2raybluecrystal2
