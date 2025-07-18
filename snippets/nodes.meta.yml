@@ -1899,6 +1899,14 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
+- name: 10 https://dafei.de
+  password: 27e473f8-d610-4b04-bdf7-d0c39b47c897
+  port: 45000
+  server: 23.80.81.213
+  skip-cert-verify: true
+  sni: www.apple.com
+  tls: false
+  type: hysteria2
 - name: '      @Config_Rayegan'
   password: 2a9b85bd-27cc-4e3b-b77d-54dbe5bc23af
   port: 30000
@@ -2088,6 +2096,14 @@ proxies:
   sni: /V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS
   tls: false
   type: hysteria2
+- name: '10 https://dafei.de #1'
+  password: 67828a6e-0144-4e57-8169-2447a3dd2e61
+  port: 45000
+  server: 23.80.81.213
+  skip-cert-verify: true
+  sni: www.apple.com
+  tls: false
+  type: hysteria2
 - name: 'v2raybluecrystal2 #1'
   obfs: salamander
   obfs-password: v2raybluecrystal
@@ -2137,6 +2153,24 @@ proxies:
   server: shy39.zqjc.cloud
   skip-cert-verify: false
   sni: shy39.zqjc.cloud
+  tls: false
+  type: hysteria2
+- name: '10 https://dafei.de #2'
+  password: 8a104bc2-a8d1-4f38-8c29-17176a68b7d5
+  port: 45000
+  server: 23.80.81.213
+  skip-cert-verify: true
+  sni: www.apple.com
+  tls: false
+  type: hysteria2
+- name: ' @VPNHubMaRKeT   @VpnHubMarKeT...'
+  obfs: salamander
+  obfs-password: '@VPNHubMaRKeT'
+  password: '@VPNHubMaRKeT'
+  port: 443
+  server: 202.78.166.190
+  skip-cert-verify: true
+  sni: www.bing.com
   tls: false
   type: hysteria2
 - name: '@V2rayNG3 #4'
@@ -2202,6 +2236,15 @@ proxies:
   server: gavazn.lnmarketplace.net
   skip-cert-verify: true
   sni: gavazn.55994421.xyz
+  tls: false
+  type: hysteria2
+- name: ' @VPNHubMaRKeT   @VpnHubMarKeT... #1'
+  obfs: salamander
+  obfs-password: tel:@VPNHubMaRKeT
+  password: VPNHubMaRKeT
+  port: 9999
+  server: 3.123.253.70
+  skip-cert-verify: true
   tls: false
   type: hysteria2
 - name: 'Telegram : @Ezaccess1 Server :... #1'
@@ -2299,6 +2342,16 @@ proxies:
   password: cfe032e4-1bc3-454f-9d09-301b0aea08ff
   port: 45979
   server: 40.233.70.163
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: ' @VpnHubMarKeT  @VpnHubMarKeT '
+  obfs: salamander
+  obfs-password: VpnHubMarKeT
+  password: dbe172973c29534833c6fae3d706d9e7
+  port: 443
+  server: 91.217.119.51
   skip-cert-verify: true
   sni: www.bing.com
   tls: false
