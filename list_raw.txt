@@ -78,7 +78,7 @@ vless://7f93e196-1b2f-4a42-8051-5815554c05db@34.229.111.223:443?allowInsecure=0&
 hysteria2://b778e4ae-1458-11ec-a8bf-f23c91cfbbc9@f4b0487a-supts0-swdlq9-g53t.hy2.gotochinatown.net:8443?insecure=0&sni=f4b0487a-supts0-swdlq9-g53t.hy2.gotochinatown.net#%F0%9F%87%BA%F0%9F%87%B888%20%7C%20%201.1MB/s
 hysteria2://9ad05870-d8c5-11ef-9f1c-f23c913c8d2b@ce8ae4b9-svn5s0-swbt02-g3b3.hy2.gotochinatown.net:8443?sni=ce8ae4b9-svn5s0-swbt02-g3b3.hy2.gotochinatown.net#%F0%9F%87%BA%F0%9F%87%B896%20%7C%20%202.4MB/s
 vless://6603a779-07c9-4bc9-8f61-4a09c238653a@62.60.193.221:32774?type=ws&path=/6603a779fp=chrome#%F0%9F%87%AE%F0%9F%87%B71%20%7C%20%201.3MB/s%7C0%25%7COpenai
-hysteria2://2ec58858-976b-11ea-82ef-f23c9164ca5d@6150e203-svy9s0-sx4b2t-tng5.hy2.gotochinatown.net:8443?insecure=0&sni=6150e203-svy9s0-sx4b2t-tng5.hy2.gotochinatown.net#%20%20Telegram%20%40v2rayng_fars
+hysteria2://2ec58858-976b-11ea-82ef-f23c9164ca5d@6150e203-svy9s0-sx4b2t-tng5.hy2.gotochinatown.net:8443?sni=6150e203-svy9s0-sx4b2t-tng5.hy2.gotochinatown.net#%F0%9F%87%BA%F0%9F%87%B898%20%7C%20%201.3MB/s
 hysteria2://e8a960d8-14f5-11ec-a0fc-f23c913c8d2b@ed8e1d3b-sw3ts0-szt6ky-1bonh.hy2.gotochinatown.net:8443?sni=ed8e1d3b-sw3ts0-szt6ky-1bonh.hy2.gotochinatown.net#%F0%9F%87%BA%F0%9F%87%B8100%20%7C%20%201.3MB/s
 hysteria2://467f2940-77cd-11ee-b5ed-f23c9164ca5d@898602eb-svlb40-swwn15-1phla.hy2.gotochinatown.net:8443?sni=898602eb-svlb40-swwn15-1phla.hy2.gotochinatown.net#%F0%9F%87%BA%F0%9F%87%B8103%20%7C%20%203.2MB/s
 hysteria2://607d365e-7ea1-11ee-95e9-f23c913c8d2b@69ad0675-sw5og0-sx7hbg-1mmbp.hy2.gotochinatown.net:8443?sni=69ad0675-sw5og0-sx7hbg-1mmbp.hy2.gotochinatown.net#%F0%9F%87%BA%F0%9F%87%B8104%20%7C%20%202.1MB/s
@@ -162,7 +162,6 @@ hysteria2://5132d29b-e76d-4c5b-97a2-25d9ed8bd2b6@flyrb.flylink.cyou:35300?insecu
 hysteria2://63399f11-4b3a-4ccb-9b9c-c9a3145912f9@rb.dport.top:33657?insecure=1&sni=rb.dport.top&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==#Telegram%3A%40config_proxy%20%20%232
 hysteria2://65a43b6e-19c5-4fab-b960-d110a07d66a4@209.141.47.127:3234?insecure=1#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8
 hysteria2://75577117-ABCD-DCBA-AAAA-CC777775577B@s15.serv00.com:7777?insecure=1&sni=www.bing.com#%40V2rayNG3%20%233
-hysteria2://771b45aa-d017-4e35-841b-33ec8bf5bad4@flyyg.flylink.cyou:35240?insecure=1&sni=flyyg.flylink.cyou&obfs=salamander&obfs-password=ZWYxYjI3YjlmY2I0OGEwYw==#Telegram%3A%40config_proxy%20%20%233
 hysteria2://7a812743-3e4f-4a5d-8d2d-e5d50b54279f@bx.dport.top:33654?insecure=1&sni=bx.dport.top&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==#%40Filter_breaker
 hysteria2://7a812743-3e4f-4a5d-8d2d-e5d50b54279f@dg.dport.top:33653?insecure=1&sni=dg.dport.top&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==#%40Filter_breaker%20%231
 hysteria2://7a812743-3e4f-4a5d-8d2d-e5d50b54279f@fg.dport.top:33652?insecure=1&sni=fg.dport.top&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==#%40Filter_breaker%20%232
@@ -172,7 +171,6 @@ hysteria2://7a812743-3e4f-4a5d-8d2d-e5d50b54279f@jnd.dport.top:33651?insecure=1&
 hysteria2://7a812743-3e4f-4a5d-8d2d-e5d50b54279f@mg.dport.top:33650?insecure=1&sni=mg.dport.top&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==#%40Filter_breaker%20%236
 hysteria2://7a812743-3e4f-4a5d-8d2d-e5d50b54279f@rb.dport.top:33657?insecure=1&sni=rb.dport.top&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==#%40Filter_breaker%20%237
 hysteria2://7a812743-3e4f-4a5d-8d2d-e5d50b54279f@teq.dport.top:33658?insecure=1&sni=teq.dport.top&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==#%40Filter_breaker%20%238
-hysteria2://91444c14-779d-4974-a68f-95cb7105f2fa@flyrb.flylink.cyou:35300?insecure=1&sni=flyxg.flylink.cyou&obfs=salamander&obfs-password=ZWYxYjI3YjlmY2I0OGEwYw==#Telegram%3A%40config_proxy%20%20%234
 hysteria2://918acdcd-8d53-4b58-8304-99bee6218e7c@nexiateq.688997.xyz:20957?insecure=1&sni=nexiateq.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==#%40SaghiVpnX%5B%5D%20%231
 hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@206.71.158.40:35000?insecure=1&sni=pichondan.com&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#telegram%20%20%40v2rayNG_Matsuri
 hysteria2://%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi@77.90.52.69:35000?insecure=1&sni=pichondan.com&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%20%20%40V2xay%20%231
@@ -199,7 +197,7 @@ hysteria2://Ys1Z1iA996@78.138.118.228:33113?insecure=1&obfs=salamander&obfs-pass
 hysteria2://Ys1Z1iA996@78.138.118.228:37804?insecure=1&obfs=salamander&obfs-password=v2raybluecrystal#v2raybluecrystal%20%231
 hysteria2://b5c1b004cd051ef2f6ffedda2e47d538@206.71.158.40:33331?sni=jnir-1.pichondan.com&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%40Filter_breaker_206.71.158.40
 hysteria2://cfe032e4-1bc3-454f-9d09-301b0aea08ff@150.230.30.237:45979?insecure=1&sni=www.bing.com#Telegram%40vmessorg%20%231
-hysteria2://d2fa4738-6c9a-4cfd-a2ef-33b5d408f6a8@nexiahl.688997.xyz:20457?insecure=1&sni=nexiahl.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==#Telegram%3A%40config_proxy%20%20%235
+hysteria2://d2fa4738-6c9a-4cfd-a2ef-33b5d408f6a8@nexiahl.688997.xyz:20457?insecure=1&sni=nexiahl.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==#Telegram%3A%40config_proxy%20%20%233
 hysteria2://d3b8fcfb-4f76-476e-9c7d-ce43a1d32267@nexiaxg.688997.xyz:20057?insecure=1&sni=nexiaxg.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==#%40SaghiVpnX%5B%5D%20%234
 hysteria2://d84be3ca-d0b6-4bd0-9b61-db86d7c65969@212.115.41.93:443?insecure=1&sni=aparat.com&obfs=salamander&obfs-password=Mzc5NTA3MjVlZDMyYTYyMA==#%20%20%40V2ray_persian21%20%7C%20%20%20
 hysteria2://dongtaiwang.com@208.87.243.187:22222?insecure=1&sni=www.bing.com#%40Daily_Configs%20%231
@@ -221,7 +219,6 @@ hysteria2://e2QEtNgU9v@5.133.102.59:13222?insecure=1&obfs=salamander&obfs-passwo
 hysteria2://e2QEtNgU9v@5.133.102.59:28958?insecure=1&obfs=salamander&obfs-password=FF#%40GVgg%23v2raybluecrystal3-tur
 hysteria2://e2QEtNgU9v@5.133.102.59:30062?insecure=1&obfs=salamander&obfs-password=xfvgb@ssV#v2raybluecrystal-tur
 hysteria2://e2QEtNgU9v@5.133.102.59:41250?insecure=1&obfs=salamander&obfs-password=vbn@ffFF#v2raybluecrystal2-tur
-hysteria2://edf85f14-ba97-49e4-990a-a4d873bab1a1@dehub.xg-hub.icu:25784?insecure=1&sni=dehub.xg-hub.icu&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==#Telegram%3A%40config_proxy%20%20%236
 hysteria2://f39a270d-c46e-4a39-a998-b33660291e7e@nexiadg.688997.xyz:20557?insecure=1&sni=nexiadg.688997.xyz&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==#%20%20%40V2xay%20%235
 hysteria2://f8e40931bbb827df@62.60.231.189:12123?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=dbc688df29e582d3#%40V2rayNG3%20%239
 hysteria2://fzgdaH0cJ7@160.191.183.244:11282?insecure=1&obfs=salamander&obfs-password=v2raybluecrystal#v2raybluecrystal-ind
@@ -697,6 +694,6 @@ vless://17034eef-9472-45cc-bca5-a71f90e36244@192.0.54.219:8080?allowInsecure=0&s
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@102.177.176.188:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#ZA_speednode_0420
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@102.177.176.177:8880?allowInsecure=0&sni=ip.langmanshanxi.top&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560#ZA_speednode_0421
 ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8774?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202507282137611-HEnrNCdMfp.download.microsoft.com#%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
+ss://YWVzLTI1Ni1nY206OWJmZGRlNzFiNGMw@103.103.245.158:636?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Fcauejypbltqt%3Bhost%3Dnewroot2v1.dsjsapp.com%3Btls#%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
 ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8766?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202507282137611-HEnrNCdMfp.download.microsoft.com#%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 ss://YWVzLTI1Ni1nY206ODIzZTEzNWVkMTAz@137.220.191.40:636?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Fdchlbvrbbotc%3Bhost%3Djp7v1.lingjfjkm002.com%3Btls#%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
-ss://YWVzLTI1Ni1nY206OWJmZGRlNzFiNGMw@103.103.245.158:636?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8%3Bpath%3D%2Fcauejypbltqt%3Bhost%3Dnewroot2v1.dsjsapp.com%3Btls#%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
