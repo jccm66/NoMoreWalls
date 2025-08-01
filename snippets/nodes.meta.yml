@@ -2279,6 +2279,16 @@ proxies:
   sni: hl.dport.top
   tls: false
   type: hysteria2
+- name: '@SaghiVpnX[]'
+  obfs: salamander
+  obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
+  password: 1fe99fb2-9f40-4c5e-b275-de1d49d51409
+  port: 20957
+  server: nexiateq.688997.xyz
+  skip-cert-verify: true
+  sni: nexiateq.688997.xyz
+  tls: false
+  type: hysteria2
 - name: '@V2rayNG3 #2'
   obfs: salamander
   obfs-password: de8287cd33b05fa3
@@ -2287,6 +2297,26 @@ proxies:
   server: 109.120.135.123
   skip-cert-verify: true
   sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: ' @FreakConfig'
+  obfs: salamander
+  obfs-password: ZWYxYjI3YjlmY2I0OGEwYw==
+  password: 30cd031e-b4a6-4bc7-a99a-9642259fdeff
+  port: 35230
+  server: flydg.flylink.cyou
+  skip-cert-verify: true
+  sni: flydg.flylink.cyou
+  tls: false
+  type: hysteria2
+- name: 'Telegram:@config_proxy  #1'
+  obfs: salamander
+  obfs-password: ZWYxYjI3YjlmY2I0OGEwYw==
+  password: 30cd031e-b4a6-4bc7-a99a-9642259fdeff
+  port: 35240
+  server: flyyg.flylink.cyou
+  skip-cert-verify: true
+  sni: flyyg.flylink.cyou
   tls: false
   type: hysteria2
 - name: v2raybluecrystal2
@@ -2421,7 +2451,17 @@ proxies:
   sni: teq.dport.top
   tls: false
   type: hysteria2
-- name: ' @FreakConfig'
+- name: '@SaghiVpnX[] #1'
+  obfs: salamander
+  obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
+  password: 918acdcd-8d53-4b58-8304-99bee6218e7c
+  port: 20957
+  server: nexiateq.688997.xyz
+  skip-cert-verify: true
+  sni: nexiateq.688997.xyz
+  tls: false
+  type: hysteria2
+- name: ' @FreakConfig #1'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
@@ -2584,7 +2624,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '@SaghiVpnX[]'
+- name: '@SaghiVpnX[] #3'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -2631,15 +2671,6 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '@Filter_breaker_206.71.158.40'
-  obfs: salamander
-  obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
-  password: b5c1b004cd051ef2f6ffedda2e47d538
-  port: 33331
-  server: 206.71.158.40
-  sni: jnir-1.pichondan.com
-  tls: false
-  type: hysteria2
 - name: 'Telegram@vmessorg #1'
   password: cfe032e4-1bc3-454f-9d09-301b0aea08ff
   port: 45979
@@ -2648,7 +2679,17 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '@Daily_Configs #1'
+- name: '@SaghiVpnX[] #4'
+  obfs: salamander
+  obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
+  password: d3b8fcfb-4f76-476e-9c7d-ce43a1d32267
+  port: 20057
+  server: nexiaxg.688997.xyz
+  skip-cert-verify: true
+  sni: nexiaxg.688997.xyz
+  tls: false
+  type: hysteria2
+- name: '@Daily_Configs #2'
   obfs: salamander
   obfs-password: ZWYxYjI3YjlmY2I0OGEwYw==
   password: d4a98364-7b10-4ebd-b79b-7f045d66ff33
@@ -2668,7 +2709,7 @@ proxies:
   sni: aparat.com
   tls: false
   type: hysteria2
-- name: '@Daily_Configs #2'
+- name: ' @FreakConfig #2'
   password: dongtaiwang.com
   port: 22222
   server: 208.87.243.187
@@ -2844,7 +2885,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 'Telegram:@config_proxy  #1'
+- name: 'Telegram:@config_proxy  #2'
   obfs: salamander
   obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
   password: edf85f14-ba97-49e4-990a-a4d873bab1a1
@@ -2898,6 +2939,13 @@ proxies:
   password: fzgdaH0cJ7
   port: 48004
   server: 160.191.183.244
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: ' @FreakConfig #3'
+  password: kWlrCka5jzfKbD2z7ucwANEdZM
+  port: 26404
+  server: 47.245.53.59
   skip-cert-verify: true
   tls: false
   type: hysteria2
