@@ -1666,11 +1666,18 @@ proxies:
   sni: 1231231.1234567890spcloud.com
   tls: false
   type: hysteria2
-- name: 'Channel id: @ShadowProxy66'
+- name: 'Telegram:@config_proxy '
   password: 203d1d64-3313-11ed-bb74-f23c9164ca5d
   port: 8443
   server: 107.167.18.102
   sni: 0e1462f1-sum4g0-t8ro7t-1ey07.hy2.gotochinatown.net
+  tls: false
+  type: hysteria2
+- name: 'Telegram:@config_proxy  #1'
+  password: 203d1d64-3313-11ed-bb74-f23c9164ca5d
+  port: 8443
+  server: 107.167.18.102
+  sni: d7b8355e-suk9s0-t8ro7t-1ey07.hy2.gotochinatown.net
   tls: false
   type: hysteria2
 - name: 'Channel id: @ShadowProxy66 #1'
@@ -1729,6 +1736,14 @@ proxies:
   sni: zp2.eyujichang.xyz
   tls: false
   type: hysteria2
+- name: 'Telegram:@config_proxy  #2'
+  password: 3ee091ca-ab9c-11ef-a791-f23c9164ca5d
+  port: 8443
+  server: 107.167.18.102
+  skip-cert-verify: true
+  sni: 3233ac27-swin40-sxh7iw-1ryup.hy2.gotochinatown.net
+  tls: false
+  type: hysteria2
 - name: '2'
   password: 5d110f18-5a37-4db3-8cf6-f0bced38a1ae
   port: 443
@@ -1745,74 +1760,20 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '@Filter_breaker #1'
-  obfs: salamander
-  obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
-  password: 707ea935-924c-4127-8b6d-8c0ccf5eabd1
-  port: 25784
-  server: dehub.xg-hub.icu
+- name: 'Telegram:@config_proxy  #4'
+  password: 7992f244-8c2c-4a1a-923f-2e116e90149b
+  port: 443
+  server: 198.23.130.211
   skip-cert-verify: true
-  sni: dehub.xg-hub.icu
+  sni: file-oss-ccs-02.dafei.de
   tls: false
   type: hysteria2
-- name: '@Filter_breaker #2'
-  obfs: salamander
-  obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
-  password: 923e41fe-1893-489b-b827-71364438e293
-  port: 33653
-  server: dg.dport.top
+- name: 'Telegram:@config_proxy  #5'
+  password: 8418fb71-419d-4fc3-8b29-d7fee8de76c7
+  port: 443
+  server: 104.168.34.109
   skip-cert-verify: true
-  sni: dg.dport.top
-  tls: false
-  type: hysteria2
-- name: '@Filter_breaker #3'
-  obfs: salamander
-  obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
-  password: 923e41fe-1893-489b-b827-71364438e293
-  port: 33659
-  server: hl.dport.top
-  skip-cert-verify: true
-  sni: hl.dport.top
-  tls: false
-  type: hysteria2
-- name: '@Filter_breaker #4'
-  obfs: salamander
-  obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
-  password: 923e41fe-1893-489b-b827-71364438e293
-  port: 33651
-  server: jnd.dport.top
-  skip-cert-verify: true
-  sni: jnd.dport.top
-  tls: false
-  type: hysteria2
-- name: '@Filter_breaker #5'
-  obfs: salamander
-  obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
-  password: 923e41fe-1893-489b-b827-71364438e293
-  port: 33650
-  server: mg.dport.top
-  skip-cert-verify: true
-  sni: mg.dport.top
-  tls: false
-  type: hysteria2
-- name: '@Filter_breaker #6'
-  obfs: salamander
-  obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
-  password: 923e41fe-1893-489b-b827-71364438e293
-  port: 33657
-  server: rb.dport.top
-  skip-cert-verify: true
-  sni: rb.dport.top
-  tls: false
-  type: hysteria2
-- name: '@Filter_breaker #7'
-  obfs: salamander
-  obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
-  password: 923e41fe-1893-489b-b827-71364438e293
-  port: 33658
-  server: teq.dport.top
-  skip-cert-verify: true
-  sni: teq.dport.top
+  sni: www.bing.com
   tls: false
   type: hysteria2
 - name: '未命名 #4'
@@ -2028,26 +1989,6 @@ proxies:
   server: flyyg.flylink.cyou
   skip-cert-verify: true
   sni: flyyg.flylink.cyou
-  tls: false
-  type: hysteria2
-- name: 'Telegram:@config_proxy '
-  obfs: salamander
-  obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
-  password: 3f6e4e25-9b9d-4433-8964-21fa356d8a5f
-  port: 33657
-  server: rb.dport.top
-  skip-cert-verify: true
-  sni: rb.dport.top
-  tls: false
-  type: hysteria2
-- name: 'Telegram:@config_proxy  #1'
-  obfs: salamander
-  obfs-password: ZWYxYjI3YjlmY2I0OGEwYw==
-  password: 5132d29b-e76d-4c5b-97a2-25d9ed8bd2b6
-  port: 35300
-  server: flyrb.flylink.cyou
-  skip-cert-verify: true
-  sni: flyxg.flylink.cyou
   tls: false
   type: hysteria2
 - name: ' @FreakConfig #1'
@@ -2272,16 +2213,6 @@ proxies:
   server: 51.159.111.32
   skip-cert-verify: true
   sni: apple.com
-  tls: false
-  type: hysteria2
-- name: 'Telegram:@config_proxy  #3'
-  obfs: salamander
-  obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
-  password: edf85f14-ba97-49e4-990a-a4d873bab1a1
-  port: 25784
-  server: dehub.xg-hub.icu
-  skip-cert-verify: true
-  sni: dehub.xg-hub.icu
   tls: false
   type: hysteria2
 - name: '  @V2xay #5'
