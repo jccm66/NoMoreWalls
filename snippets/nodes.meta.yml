@@ -1745,6 +1745,23 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
+- name: 'Channel id: @ShadowProxy66 #5'
+  obfs: salamander
+  obfs-password: KevinZakarian
+  password: 6hDSryb2af
+  port: 11001
+  server: 185.45.193.163
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: 'Channel id: @ShadowProxy66 #6'
+  password: AZrgUfcGknbd6Q6LHkzMT0ODVk
+  port: 32089
+  server: 43.199.72.130
+  skip-cert-verify: true
+  sni: bing.com
+  tls: false
+  type: hysteria2
 - name: '未命名 #4'
   password: RKrGw4dSUwK3YAvqdQI8tcqNl0
   port: 34060
@@ -1757,6 +1774,15 @@ proxies:
   password: Wo9rLCYw6gzcfTgIu11mhBVciVs
   port: 29282
   server: 47.74.34.102
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: 'Channel id: @ShadowProxy66 #8'
+  obfs: salamander
+  obfs-password: NDhhNmY5YTY0MGYzOTgxYQ==
+  password: a18b26c8-6634-4238-8ccb-34e777e1277b
+  port: 33079
+  server: 45.136.245.177
   skip-cert-verify: true
   tls: false
   type: hysteria2
@@ -1791,7 +1817,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 'Channel id: @ShadowProxy66 #6'
+- name: 'Channel id: @ShadowProxy66 #9'
   obfs: salamander
   obfs-password: NDhhNmY5YTY0MGYzOTgxYQ==
   password: ba3c2ddf-237d-4f41-a6b5-9706ec5de0fd
@@ -1800,7 +1826,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 'Channel id: @ShadowProxy66 #7'
+- name: 'Channel id: @ShadowProxy66 #10'
   password: cc83a02b-90ea-403b-9c76-27e4be95f637
   port: 50256
   server: 154.204.181.230
@@ -1826,7 +1852,7 @@ proxies:
   sni: aparat.com
   tls: false
   type: hysteria2
-- name: 'Channel id: @ShadowProxy66 #10'
+- name: 'Channel id: @ShadowProxy66 #13'
   password: dongtaiwang.com
   port: 63015
   server: 108.181.5.130
@@ -1856,7 +1882,7 @@ proxies:
   server: asg.pagate.top
   tls: false
   type: hysteria2
-- name: 'Channel id: @ShadowProxy66 #12'
+- name: 'Channel id: @ShadowProxy66 #15'
   password: eb75320e-a6d0-4b34-a6b6-2bcfc96a9099
   port: 43057
   server: 203.174.82.145
@@ -1871,7 +1897,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 'Channel id: @ShadowProxy66 #13'
+- name: 'Channel id: @ShadowProxy66 #16'
   password: nfsn666
   port: 8888
   server: 45.207.222.138
@@ -1887,7 +1913,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 'Channel id: @ShadowProxy66 #14'
+- name: 'Channel id: @ShadowProxy66 #17'
   password: wl4HYN9PPKs8d8IzGIt4yKqt0
   port: 53348
   server: 47.74.34.102
@@ -2083,6 +2109,16 @@ proxies:
   sni: pichondan.com
   tls: false
   type: hysteria2
+- name: ' @VPNHubMaRKeT   @VpnHubMarKeT...'
+  obfs: salamander
+  obfs-password: '@VPNHubMaRKeT'
+  password: '@VPNHubMaRKeT'
+  port: 443
+  server: 202.78.166.190
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
 - name: '@V2rayNG3 #4'
   obfs: salamander
   obfs-password: '@azadi_az_inja_migzare'
@@ -2155,6 +2191,15 @@ proxies:
   sni: gavazn.55994421.xyz
   tls: false
   type: hysteria2
+- name: ' @VPNHubMaRKeT   @VpnHubMarKeT... #1'
+  obfs: salamander
+  obfs-password: tel:@VPNHubMaRKeT
+  password: VPNHubMaRKeT
+  port: 9999
+  server: 3.123.253.70
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
 - name: '@warp_city #1'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
@@ -2219,6 +2264,16 @@ proxies:
   server: 107.174.41.101
   skip-cert-verify: true
   sni: www.apple.com
+  tls: false
+  type: hysteria2
+- name: ' @VpnHubMarKeT  @VpnHubMarKeT '
+  obfs: salamander
+  obfs-password: VpnHubMarKeT
+  password: dbe172973c29534833c6fae3d706d9e7
+  port: 443
+  server: 91.217.119.51
+  skip-cert-verify: true
+  sni: www.bing.com
   tls: false
   type: hysteria2
 - name: '@V2ray_confs'
