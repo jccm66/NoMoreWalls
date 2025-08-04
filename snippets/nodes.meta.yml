@@ -1930,6 +1930,13 @@ proxies:
   sni: nexiaels.688997.xyz
   tls: false
   type: hysteria2
+- name: GB 1  | @v2xay
+  password: 07a95561-a7c6-40fb-b964-45c83a2833bf
+  port: 51234
+  server: 185.184.70.120
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
 - name: '@V2rayNG3'
   password: '123456'
   port: 443
@@ -1974,6 +1981,83 @@ proxies:
   sni: www.apple.com
   tls: false
   type: hysteria2
+- name: '@v2ray_configs_pool'
+  obfs: salamander
+  obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
+  password: 2ebf05a1-83d4-44c6-8cdf-17b99cd41740
+  port: 33653
+  server: dg.dport.top
+  skip-cert-verify: true
+  sni: dg.dport.top
+  tls: false
+  type: hysteria2
+- name: '@v2ray_configs_pool #1'
+  obfs: salamander
+  obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
+  password: 2ebf05a1-83d4-44c6-8cdf-17b99cd41740
+  port: 33656
+  server: hg.dport.top
+  skip-cert-verify: true
+  sni: hg.dport.top
+  tls: false
+  type: hysteria2
+- name: 'Telegram:@config_proxy '
+  obfs: salamander
+  obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
+  password: 2ebf05a1-83d4-44c6-8cdf-17b99cd41740
+  port: 33659
+  server: hl.dport.top
+  skip-cert-verify: true
+  sni: hl.dport.top
+  tls: false
+  type: hysteria2
+- name: 'Telegram:@config_proxy  #2'
+  obfs: salamander
+  obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
+  password: 2ebf05a1-83d4-44c6-8cdf-17b99cd41740
+  port: 33651
+  server: jnd.dport.top
+  skip-cert-verify: true
+  sni: jnd.dport.top
+  tls: false
+  type: hysteria2
+- name: '@v2ray_configs_pool #4'
+  obfs: salamander
+  obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
+  password: 2ebf05a1-83d4-44c6-8cdf-17b99cd41740
+  port: 33650
+  server: mg.dport.top
+  skip-cert-verify: true
+  sni: mg.dport.top
+  tls: false
+  type: hysteria2
+- name: 'Telegram:@config_proxy  #3'
+  password: 2ebf05a1-83d4-44c6-8cdf-17b99cd41740
+  port: 33650
+  server: mg.dport.top
+  sni: mg.dp
+  tls: false
+  type: hysteria2
+- name: '@v2ray_configs_pool #5'
+  obfs: salamander
+  obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
+  password: 2ebf05a1-83d4-44c6-8cdf-17b99cd41740
+  port: 33657
+  server: rb.dport.top
+  skip-cert-verify: true
+  sni: rb.dport.top
+  tls: false
+  type: hysteria2
+- name: '@v2ray_configs_pool #6'
+  obfs: salamander
+  obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
+  password: 2ebf05a1-83d4-44c6-8cdf-17b99cd41740
+  port: 33658
+  server: teq.dport.top
+  skip-cert-verify: true
+  sni: teq.dport.top
+  tls: false
+  type: hysteria2
 - name: ' @FreakConfig'
   obfs: salamander
   obfs-password: ZWYxYjI3YjlmY2I0OGEwYw==
@@ -1984,7 +2068,7 @@ proxies:
   sni: flydg.flylink.cyou
   tls: false
   type: hysteria2
-- name: '@meli_proxyy'
+- name: '@meli_proxyy #1'
   obfs: salamander
   obfs-password: ZWYxYjI3YjlmY2I0OGEwYw==
   password: 30cd031e-b4a6-4bc7-a99a-9642259fdeff
@@ -1992,6 +2076,46 @@ proxies:
   server: flyyg.flylink.cyou
   skip-cert-verify: true
   sni: flyyg.flylink.cyou
+  tls: false
+  type: hysteria2
+- name: '@v2ray_configs_pool #7'
+  obfs: salamander
+  obfs-password: do6T6UBnoZ9FhY4a
+  password: 37db38c0-f8c4-473e-8792-4b9a71da0233
+  port: 2053
+  server: 107.172.50.179
+  skip-cert-verify: true
+  sni: us01.kittycdn.pp.ua
+  tls: false
+  type: hysteria2
+- name: '@v2ray_configs_pool #8'
+  obfs: salamander
+  obfs-password: rUPgVV6WUIHqn4kC
+  password: 37db38c0-f8c4-473e-8792-4b9a71da0233
+  port: 2053
+  server: 107.175.32.216
+  skip-cert-verify: true
+  sni: us02.kittycdn.pp.ua
+  tls: false
+  type: hysteria2
+- name: '@v2ray_configs_pool #9'
+  obfs: salamander
+  obfs-password: do6T6UBnoZ9FhY4a
+  password: 4246e115-aec2-4fa2-8c55-b06fe2fcac67
+  port: 2053
+  server: 107.172.50.179
+  skip-cert-verify: true
+  sni: us01.kittycdn.pp.ua
+  tls: false
+  type: hysteria2
+- name: '@v2ray_configs_pool #10'
+  obfs: salamander
+  obfs-password: rUPgVV6WUIHqn4kC
+  password: 4246e115-aec2-4fa2-8c55-b06fe2fcac67
+  port: 2053
+  server: 107.175.32.216
+  skip-cert-verify: true
+  sni: us02.kittycdn.pp.ua
   tls: false
   type: hysteria2
 - name: ' @FreakConfig #1'
@@ -2230,6 +2354,76 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
+- name: '@v2ray_configs_pool #11'
+  obfs: salamander
+  obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
+  password: ab0a8cd1-fbc5-4e15-bdc3-6a907d333c33
+  port: 33653
+  server: dg.dport.top
+  skip-cert-verify: true
+  sni: dg.dport.top
+  tls: false
+  type: hysteria2
+- name: 'Telegram:@config_proxy  #4'
+  obfs: salamander
+  obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
+  password: ab0a8cd1-fbc5-4e15-bdc3-6a907d333c33
+  port: 33656
+  server: hg.dport.top
+  skip-cert-verify: true
+  sni: hg.dport.top
+  tls: false
+  type: hysteria2
+- name: '@v2ray_configs_pool #13'
+  obfs: salamander
+  obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
+  password: ab0a8cd1-fbc5-4e15-bdc3-6a907d333c33
+  port: 33659
+  server: hl.dport.top
+  skip-cert-verify: true
+  sni: hl.dport.top
+  tls: false
+  type: hysteria2
+- name: 'Telegram:@config_proxy  #5'
+  obfs: salamander
+  obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
+  password: ab0a8cd1-fbc5-4e15-bdc3-6a907d333c33
+  port: 33651
+  server: jnd.dport.top
+  skip-cert-verify: true
+  sni: jnd.dport.top
+  tls: false
+  type: hysteria2
+- name: '@v2ray_configs_pool #15'
+  obfs: salamander
+  obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
+  password: ab0a8cd1-fbc5-4e15-bdc3-6a907d333c33
+  port: 33650
+  server: mg.dport.top
+  skip-cert-verify: true
+  sni: mg.dport.top
+  tls: false
+  type: hysteria2
+- name: '@v2ray_configs_pool #16'
+  obfs: salamander
+  obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
+  password: ab0a8cd1-fbc5-4e15-bdc3-6a907d333c33
+  port: 33657
+  server: rb.dport.top
+  skip-cert-verify: true
+  sni: rb.dport.top
+  tls: false
+  type: hysteria2
+- name: '@v2ray_configs_pool #17'
+  obfs: salamander
+  obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
+  password: ab0a8cd1-fbc5-4e15-bdc3-6a907d333c33
+  port: 33658
+  server: teq.dport.top
+  skip-cert-verify: true
+  sni: teq.dport.top
+  tls: false
+  type: hysteria2
 - name: 'Telegram@vmessorg #1'
   password: cfe032e4-1bc3-454f-9d09-301b0aea08ff
   port: 45979
@@ -2323,6 +2517,26 @@ proxies:
   server: bx.dport.top
   skip-cert-verify: true
   sni: bx.dport.top
+  tls: false
+  type: hysteria2
+- name: 'Telegram:@config_proxy  #6'
+  obfs: salamander
+  obfs-password: do6T6UBnoZ9FhY4a
+  password: ed5ff2e7-56c7-40be-8af5-9aa8f9f47ce3
+  port: 2053
+  server: 107.172.50.179
+  skip-cert-verify: true
+  sni: us01.kittycdn.pp.ua
+  tls: false
+  type: hysteria2
+- name: '@v2ray_configs_pool #19'
+  obfs: salamander
+  obfs-password: rUPgVV6WUIHqn4kC
+  password: ed5ff2e7-56c7-40be-8af5-9aa8f9f47ce3
+  port: 2053
+  server: 107.175.32.216
+  skip-cert-verify: true
+  sni: us02.kittycdn.pp.ua
   tls: false
   type: hysteria2
 - name: '  @V2xay #5'
