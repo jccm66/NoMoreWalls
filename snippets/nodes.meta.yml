@@ -2005,6 +2005,14 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
+- name: 10 https://dafei.de
+  password: 27e473f8-d610-4b04-bdf7-d0c39b47c897
+  port: 45000
+  server: 23.80.81.213
+  skip-cert-verify: true
+  sni: www.apple.com
+  tls: false
+  type: hysteria2
 - name: ' @FreakConfig'
   obfs: salamander
   obfs-password: ZWYxYjI3YjlmY2I0OGEwYw==
@@ -2072,6 +2080,14 @@ proxies:
   sni: hl.dport.top
   tls: false
   type: hysteria2
+- name: '10 https://dafei.de #1'
+  password: 527a7c04-9a2c-4fdb-aa18-37337e62e917
+  port: 45000
+  server: 107.174.41.101
+  skip-cert-verify: true
+  sni: www.apple.com
+  tls: false
+  type: hysteria2
 - name: ' @FreakConfig #2'
   obfs: salamander
   obfs-password: ZWYxYjI3YjlmY2I0OGEwYw==
@@ -2121,6 +2137,14 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
+- name: '10 https://dafei.de #2'
+  password: 67828a6e-0144-4e57-8169-2447a3dd2e61
+  port: 45000
+  server: 23.80.81.213
+  skip-cert-verify: true
+  sni: www.apple.com
+  tls: false
+  type: hysteria2
 - name: '@Daily_Configs #2'
   password: 68821a5b-49db-49c7-924f-22b1441e5b30
   port: 443
@@ -2161,6 +2185,14 @@ proxies:
   server: s15.serv00.com
   skip-cert-verify: true
   sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: '10 https://dafei.de #3'
+  password: 8a104bc2-a8d1-4f38-8c29-17176a68b7d5
+  port: 45000
+  server: 23.80.81.213
+  skip-cert-verify: true
+  sni: www.apple.com
   tls: false
   type: hysteria2
 - name: '@SaghiVpnX[] #1'
@@ -2280,14 +2312,6 @@ proxies:
   server: 91.98.34.130
   skip-cert-verify: false
   sni: android.yas-nowin.ir
-  tls: false
-  type: hysteria2
-- name: Telegram@vmessorg
-  password: JSC7GnvDM4mIitnCZXQo8IKSPs
-  port: 29713
-  server: 13.250.121.168
-  skip-cert-verify: true
-  sni: bing.com
   tls: false
   type: hysteria2
 - name: v2raybluecrystal2-la
@@ -2410,14 +2434,6 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 'Telegram@vmessorg #1'
-  password: cfe032e4-1bc3-454f-9d09-301b0aea08ff
-  port: 45979
-  server: 150.230.30.237
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
 - name: '@SaghiVpnX[] #4'
   obfs: salamander
   obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
@@ -2436,6 +2452,14 @@ proxies:
   server: flyhl.flylink.cyou
   skip-cert-verify: true
   sni: flyhl.flylink.cyou
+  tls: false
+  type: hysteria2
+- name: '10 https://dafei.de #4'
+  password: dac2d4dd-9a4d-4eb0-92a6-028532caed52
+  port: 45000
+  server: 107.174.41.101
+  skip-cert-verify: true
+  sni: www.apple.com
   tls: false
   type: hysteria2
 - name: ' @VpnHubMarKeT  @VpnHubMarKeT '
@@ -2648,14 +2672,6 @@ proxies:
   port: 443
   server: knock.zone1.center
   skip-cert-verify: false
-  tls: false
-  type: hysteria2
-- name: 'Telegram@vmessorg #2'
-  password: yoP8tOtEhMTSBUPY9LwnHABvFE
-  port: 14933
-  server: 18.136.211.127
-  skip-cert-verify: true
-  sni: bing.com
   tls: false
   type: hysteria2
 - cipher: aes-256-cfb
