@@ -50,7 +50,7 @@ proxies:
   sni: apple.com
   tls: false
   type: hysteria2
-- name: 'Channel id: @singbox1 #5'
+- name: '@V2Ray_hiddify10266'
   password: dongtaiwang.com
   port: 22222
   server: 208.87.243.187
@@ -225,14 +225,6 @@ proxies:
   password: Bz0jKM83wa
   port: 443
   server: android.yas-nowin.ir
-  sni: android.yas-nowin.ir
-  tls: false
-  type: hysteria2
-- name: '    #2'
-  password: J7VnJazPBw
-  port: 443
-  server: android.yas-nowin.ir
-  skip-cert-verify: false
   sni: android.yas-nowin.ir
   tls: false
   type: hysteria2
