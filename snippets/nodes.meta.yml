@@ -97,13 +97,6 @@ proxies:
   sni: real.getafreenode.sbs
   tls: false
   type: hysteria2
-- name: '      V2rayNG      '
-  password: Bz0jKM83wa
-  port: 443
-  server: android.yas-nowin.ir
-  sni: android.yas-nowin.ir
-  tls: false
-  type: hysteria2
 - name: 'WI-FI--@IRAN_V2RAY1 #1'
   obfs: salamander
   obfs-password: Telegram-->@Ln2Ray
