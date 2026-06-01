@@ -61,3 +61,17 @@ proxies:
   tls: false
   type: vmess
   uuid: d13fc2f5-3e05-4795-81eb-44143a09e552
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: US_speednode_0028
+  port: 8443
+  reality-opts:
+    public-key: A9jwrodyycJJV-apFQ91_rrh1vfJ_hSzZGNP9GBPGCM
+    short-id: '!!str 92d0c4089b6c1da3'
+  server: 132.243.231.122
+  servername: io.ozone.ru
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: 7625adbb-52f7-4ff4-95f8-677471071a77
